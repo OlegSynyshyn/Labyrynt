@@ -1,0 +1,17 @@
+class Hero(GameSprite):
+def move (self):
+keys = key-get_pressed()
+if
+keysIK dJ:
+if self.rect. < 640:
+self.rect. + self.speed
+if
+keysIK al:
+if self.rect. > 5:
+self.rect. - self.speed
+if keys [K_wl:
+if self.rect-y > 58
+self.rect.y - self.speed
+if keys[K s]:
+if self. rect.y < 440:
+self. rect.y += self.speed
